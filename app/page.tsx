@@ -1,5 +1,4 @@
 import Image from "next/image";
-import Link from "next/link";
 
 export default function Home() {
   return (
@@ -14,7 +13,7 @@ export default function Home() {
             Try
             <span className="font-semibold">
               {" "}
-              <Link href="starterpax.com"> Starter Pax </Link>
+              <a href="https://www.starterpax.com"> Starter Pax </a>
             </span>
             for hobby recommendations
           </h2>
