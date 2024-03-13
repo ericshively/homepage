@@ -1,5 +1,5 @@
-import { Suspense } from "react";
 import Image from "next/image";
+import Link from "next/link";
 
 export default function Home() {
   return (
@@ -10,7 +10,13 @@ export default function Home() {
             Eric Shively
           </h1>
           <h2 className="text-gray-700 dark:text-gray-200 mb-4">
-            Founder at <span className="font-semibold">ExoRoad</span>
+            <br></br>
+            Try
+            <span className="font-semibold">
+              {" "}
+              <Link href="starterpax.com"> Starter Pax </Link>
+            </span>
+            for hobby recommendations
           </h2>
           <p className="text-gray-600 dark:text-gray-400 mb-16">
             Software Engineer in the Bay Area. <br /> Love skateboarding,
