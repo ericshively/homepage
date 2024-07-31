@@ -19,8 +19,8 @@ export default function Home() {
           </h2>
           <p className="text-gray-600 dark:text-gray-400 mb-16">
             Software Engineer in the Bay Area. <br /> <br /> Interested in
-            skateboarding, snowboarding, coding, bowling, boardgames, history,
-            geopol, and econ.
+            coding, skateboarding, snowboarding, mixology, bowling, boardgames,
+            history, geopol, and econ.
           </p>
           <p className="text-gray-600 dark:text-gray-400 mb-16">
             Contact : eric (at) exoroad (dot) com
