@@ -13,13 +13,17 @@ export default function Home() {
             Try
             <span className="font-semibold">
               {" "}
-              <a href="https://www.starterpax.com"> Starter Pax </a>
+              <a href="https://www.exoroad.com"> ExoRoad </a>
             </span>
-            for hobby recommendations
+            to find the best place for you to live!
           </h2>
           <p className="text-gray-600 dark:text-gray-400 mb-16">
-            Software Engineer in the Bay Area. <br /> Love skateboarding,
-            snowboarding, dirtbiking, coding, and econ.
+            Software Engineer in the Bay Area. <br /> <br /> Interested in
+            skateboarding, snowboarding, coding, bowling, boardgames, history,
+            geopol, and econ.
+          </p>
+          <p className="text-gray-600 dark:text-gray-400 mb-16">
+            Contact : eric (at) exoroad (dot) com
           </p>
         </div>
         <div className="w-[80px] sm:w-[176px] relative mb-8 sm:mb-0 mr-auto">
