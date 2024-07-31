@@ -12,7 +12,7 @@ const ExternalLink = ({
   children: ReactNode;
 }) => (
   <a
-    className="text-gray-500 hover:text-gray-600 transition flex items-center justify-center gap-2"
+    className="text-gray-500 hover:text-gray-600 transition flex items-center gap-2"
     target="_blank"
     rel="noopener noreferrer"
     href={href}
