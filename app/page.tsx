@@ -11,19 +11,22 @@ export default function Home() {
           <h2 className="text-gray-700 dark:text-gray-200 mb-4">
             <br></br>
             Try
-            <span className="font-semibold">
+            <span>
               {" "}
-              <a href="https://www.exoroad.com"> ExoRoad </a>
-            </span>
+              <a
+                className="underline text-blue-500"
+                href="https://www.exoroad.com"
+              >
+                {" "}
+                ExoRoad
+              </a>
+            </span>{" "}
             to find the best place for you to live!
           </h2>
           <p className="text-gray-600 dark:text-gray-400 mb-16">
             Software Engineer in the Bay Area. <br /> <br /> Interested in
             coding, skateboarding, snowboarding, mixology, bowling, boardgames,
             history, geopol, and econ.
-          </p>
-          <p className="text-gray-600 dark:text-gray-400 mb-16">
-            Contact : eric (at) exoroad (dot) com
           </p>
         </div>
         <div className="w-[80px] sm:w-[176px] relative mb-8 sm:mb-0 mr-auto">
